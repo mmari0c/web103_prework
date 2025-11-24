@@ -1,6 +1,6 @@
 # WEB103 Prework - *Creatorverse*
 
-Submitted by: **Mario Nolasco Cortez**
+Submitted by: **Mario Nolasco**
 
 About this web app: **Creatorverse is a web application that uses full CRUD functionality to help you keep track of your favorite YouTube creators.**
 
@@ -50,7 +50,7 @@ Thanks to everything I learned in WEB102, I had no problem working on this proje
 
 ## License
 
-Copyright [2025] [Mario Nolasco Cortez]
+Copyright [2025] [Mario Nolasco]
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
