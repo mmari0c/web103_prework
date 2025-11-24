@@ -46,7 +46,7 @@ GIF created with Kap
 
 ## Notes
 
-Thanks to everything I learned in CodePath's WEB102 course, I had no problem working on this project!
+Thanks to everything I learned in WEB102, I had no problem working on this project!
 
 ## License
 
