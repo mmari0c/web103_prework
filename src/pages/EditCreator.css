@@ -1,0 +1,16 @@
+
+
+.edit-buttons {
+   display: flex;
+   gap: 1rem;
+}
+
+.delete-button {
+   background-color: #db4e4e;
+}
+
+.back-button {
+   display: flex;
+   margin-bottom: 1rem;
+   background-color: #9D9DCC;
+}

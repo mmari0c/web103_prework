@@ -1,5 +1,5 @@
 :root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family:"Orbitron", Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
@@ -15,11 +15,11 @@
 
 a {
   font-weight: 500;
-  color: black;
+  color: white;
   text-decoration: inherit;
 }
 a:hover {
-  color: black;
+  color: white;
 }
 
 body {
@@ -65,4 +65,8 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+
+h1, h2, p {
+  color: white;
 }

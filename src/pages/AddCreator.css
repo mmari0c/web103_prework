@@ -1,0 +1,37 @@
+.add-creator-container {
+   background-color: #D3D3FF;
+   width: 30%;
+   border-radius: 8px;
+   padding: 1.5rem;           /* gives space inside the container */
+ }
+
+ .add-creator-container h2 {
+   margin-top: 0;
+   color: black;
+ }
+ 
+ .add-creator-form {
+   display: flex;
+   flex-direction: column;
+ }
+ 
+ label {
+   text-align: left;
+   margin-bottom: 0.25rem;     /* keeps label close to input */
+   font-weight: 600;           /* optional: improves readability */
+ }
+ 
+ input,
+ textarea {
+   margin-bottom: 1rem;
+   border-radius: 8px;
+   border: 1px solid #333;      /* softer black */
+   padding: 0.5rem;
+   font-size: 1rem;
+ }
+ 
+ textarea {
+   height: 5rem;
+   resize: vertical;            /* allows controlled resizing */
+ }
+ 

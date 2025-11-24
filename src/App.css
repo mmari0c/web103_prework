@@ -6,3 +6,30 @@
   width: 100%;
   height: 100%;
 }
+
+main {
+    background-image: url("src/assets/creatorverse-background.jpg");
+    /* Optional: Add other background properties for better control */
+    background-repeat: no-repeat; /* Prevents image from repeating */
+    background-size: cover;      /* Scales image to cover the entire element */
+    background-position: center; /* Centers the image */
+    background-attachment: fixed; /* Fixes the background image during scrolling */
+}
+
+.home-link {
+  width: 100%;
+}
+
+.home-buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 3rem;
+}
+
+.home-button {
+  height: 5rem;
+  width: 100%;
+  background-color: #090933;
+  color: white;
+}

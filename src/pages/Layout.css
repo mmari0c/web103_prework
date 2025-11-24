@@ -1,6 +1,7 @@
 .layout {
    display: flex;
    min-height: 100vh;
+   background-color: #575799;
  }
 
  nav ul {
@@ -11,7 +12,7 @@
 
  nav li {
    margin: 30px 0;
-   color: black;
+   color: white;
  }
 
  main {
